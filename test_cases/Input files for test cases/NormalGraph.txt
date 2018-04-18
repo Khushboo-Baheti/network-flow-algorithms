@@ -1,0 +1,17 @@
+s a 50
+s b 36
+s c 11
+s d 8
+a e 100
+a f 100
+a g 100
+a h 100
+b f 100
+b h 100
+c g 100
+c h 100
+d h 100
+e t 45
+f t 42
+g t 10
+h t 3

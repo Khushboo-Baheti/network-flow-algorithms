@@ -1,0 +1,17 @@
+s a 2
+s b 2
+s c 2
+s d 2
+a e 2
+a f 2
+a g 2
+a h 2
+b f 2
+b h 2
+c g 2
+c h 2
+d h 2
+e t 2
+f t 2
+g t 2
+h t 2

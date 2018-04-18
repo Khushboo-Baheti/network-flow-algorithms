@@ -1,4 +1,4 @@
-# NETWORK-FLOW-ALGORITHMS
+# TCSS543-NETWORK-FLOW-ALGORITHMS
 
 Implemented Three Network Flow Algorithms and Analyzed Performance Varying the Input Parameters
 
